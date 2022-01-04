@@ -20,7 +20,7 @@
       "email": "code@whizpool.com"
     }
   ],
-  "homepage": "https://github.com/react-native-image-picker/react-native-image-picker",
+  "homepage": "https://github.com/whizpool/react-native-quick-image-picker",
   "license": "MIT",
   "scripts": {
     "start": "react-native start",
@@ -43,7 +43,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/react-native-image-picker/react-native-image-picker.git"
+    "url": "https://github.com/whizpool/react-native-quick-image-picker.git"
   },
   "devDependencies": {
     "@react-native-community/bob": "0.17.1",

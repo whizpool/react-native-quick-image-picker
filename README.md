@@ -1,4 +1,4 @@
-# React Native Image Picker
+# React Native QUICK Image Picker
 
 A React Native module that allows you to select a photo/video from the device library or camera.
 
@@ -7,9 +7,10 @@ A React Native module that allows you to select a photo/video from the device li
   <img src="https://img.shields.io/npm/v/react-native-quick-image-picker" />
 </p>
 
-### Make sure you're reading the doc applicable to your version, for example if your using version 3.8.0 go to tag 3.8.0 and read those docs. This doc is always that of main branch.
+## Credit
+### Special Thanks to react-native-image-picker. We derived code from https://github.com/react-native-image-picker/react-native-image-picker. Our requirement is to get only file name. But this code load whole file to get other information of file as well. So we modify this code and get file name only. 
 
-### Also read version release notes for any breaking changes especially if you're updating the major version.
+
 
 # Install
 
