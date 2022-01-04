@@ -114,9 +114,8 @@ The `callback` will be called with a response object, refer to [The Response Obj
 | height    | OK  | OK      | Image dimensions (photos only)                                                                                                                                                                                                             |
 | fileSize  | OK  | OK      | The file size                                                                                                                                                                                                                |
 | type      | OK  | OK      | The file type (photos only)                                                                                                                                                                                                                |
-| fileName  | OK  | OK      | The file name   (Unique Name every time)  
-                                                                                                         |
-| name  | OK  | ---      | Original name                                                                                                                                                                                                                            |
+| fileName  | OK  | OK      | The file name (Unique Name every time)                                                                                                                                                                                                                       |
+| name  | OK  | ---      | The original file name                                                                                                                                                                                                                              |
 | duration  | OK  | OK      | The selected video duration in seconds
 | bitrate   | --- | OK      | The average bitrate (in bits/sec) of the selected video, if available.|
 | timestamp | OK  | OK      | Timestamp of the photo. Only included if 'includeExtra' is true
